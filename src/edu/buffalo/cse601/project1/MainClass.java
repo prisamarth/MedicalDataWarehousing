@@ -16,7 +16,6 @@ import org.apache.commons.math3.distribution.TDistribution;
 import org.apache.commons.math3.stat.descriptive.moment.Mean;
 import org.apache.commons.math3.stat.descriptive.moment.Variance;
 
-import com.buffalo.edu.project1.StatisticsComputer;
 
 public class MainClass {
 
